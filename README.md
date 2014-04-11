@@ -5,6 +5,14 @@ A few Sencha Touch Coda 2 Clips. Each clip contains a starting point for Views M
 
 
 _______________________________________________
+```javascript
 
 newController + TAB
 
+newView + TAB
+
+newModel + TAB
+
+newStore + TAB
+
+```
